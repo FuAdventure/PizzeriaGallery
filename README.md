@@ -1,11 +1,11 @@
 ## Pizzeria Gallery Front End
 
-This repo is for the front end of a mobile app built with React Native and Hooks. An iOS app and an Android app can be generated from this repo using Expo. 
+This repo is for the front end of a mobile app built with React Native and Hooks in Expo CLI. An iOS app and an Android app can be generated from this repo using Expo. 
 
 Steps to use this repo:
 1. clone it and enter the directory
 2. Run `npm install` for all dependencies
-3. Run `npm start --open` to launch the page, Expo should start automatically and run at your local server. You can use Expo to run the app on an iOS or Android simulator, and your own device.
+3. Run `npm start` to launch Metro Bundler on your local server (e.g. localhost:19002). You can use Metro Bundler to run the app on an iOS or Android simulator, and your own device.
 
 App Features:
 - Sliding menu from the left side for switching screen views:
