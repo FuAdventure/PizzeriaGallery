@@ -9,5 +9,5 @@ Steps to use this repo:
 
 App Features:
 - Slide window for switching screen views:
-![sliding window](README_images/sliding.jpg)
+<img src="README_images/sliding.jpg" width="25%"/>
 
